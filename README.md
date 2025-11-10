@@ -1,8 +1,8 @@
 **Enlace del repositorio de GitHub** <br>
-https://github.com/Oomass7/Prueba-desempe-o---Modulo-2
+https://github.com/Oomass7/Portfolio-Tomas-Loaiza
 
 **Enlace del GitHub Pages**<br>
-https://oomass7.github.io/Prueba-desempe-o---Modulo-2/
+https://oomass7.github.io/Portfolio-Tomas-Loaiza/
 
 **Informacion del coder** <br>
 - Nombre: José Tomás Loaiza Rodríguez
